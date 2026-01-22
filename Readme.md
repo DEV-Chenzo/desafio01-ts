@@ -1,5 +1,5 @@
 # Desenvolvendo o Dio Bank
-desenvolvido por [Nathally Souza](https://github.com/nathyts)
+Resolvdo por [Robert Vicenzo (DEV-Chenzo)](https://github.com/DEV-Chenzo)
 
 #### Projeto desenvolvido com conceitos básicos de typescript
 
@@ -10,7 +10,7 @@ desenvolvido por [Nathally Souza](https://github.com/nathyts)
 
 1 - Clone o repositório
 
-2 - Instale as dependeências
+2 - Instale as dependências
     
     npm install
 
@@ -23,13 +23,20 @@ desenvolvido por [Nathally Souza](https://github.com/nathyts)
   - Os valores dos saldos devem ser alterados, de acordo com o valor informado para depósito
   - Apenas contas com o status true e saldo (balance) maior que o valor solicitado podem fazer saques
 
+FEITO
+
+
 [ ] Implementar o método de empréstimo (getLoan) na classe CompanyAccount
   - Os valores do saldos deve ser acrescidos, de acordo com o valor informado para empréstimo
   - Apenas contas com o status true podem fazer empréstimo
 
+FEITO
+
 [ ] Criar um novo tipo de conta a partir da DioAccount
   - Esta conta não deve receber novos atributos
   - Esta conta terá um método de depósito, que acresce 10 a mais ao valor informado para depósito. (Ex: Um depósito de 100, será de 110 no final)
+
+FEITO
 
 [ ] Todos os atributos de qualquer conta devem ser privados
 
